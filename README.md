@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center"><a href="https://www.jakobfrenzel.com"><img src="https://www.jakobfrenzel.com/opengraph-image" alt="Jakob Frenzel" width="600" /></a></p>
+
+# Hi, I am Jakob
+
+## Projects
 
 <!--
 **jakobgif/jakobgif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
