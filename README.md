@@ -1,8 +1,14 @@
 <p align="center"><a href="https://www.jakobfrenzel.com"><img src="https://www.jakobfrenzel.com/opengraph-image" alt="Jakob Frenzel" width="600" /></a></p>
 
+📍 Vienna, Austria
+
 # Hi, I am Jakob
 
 ## Projects
+- [aurix_tc375_inav](https://github.com/jakobgif/aurix_tc375_inav) - Implementation a ported version of the flight control software INAV, running on the Infineon Aurix TC375 Litekit.
+
+## Motto
+„Per aspera ad astra“ — "Through suffering to the stars" — Hard work will always pay off. The results will be worth it.
 
 <!--
 **jakobgif/jakobgif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
