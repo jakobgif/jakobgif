@@ -13,4 +13,4 @@
 - ✅️ [tick](https://github.com/jakobgif/tick) - A Todo app build in Rust.
 
 ## Motto
-„Per aspera ad astra“ — "Through suffering to the stars" — Hard work will always pay off. The results will be worth it.
+„Per aspera ad astra“ — "To the stars through difficulties."
