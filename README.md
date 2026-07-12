@@ -11,6 +11,7 @@
 - 🛠️ [nextbom](https://github.com/jakobgif/nextbom) - A tool to create BOMs for electronic projects.
 - ✅️ [portfolio](https://github.com/jakobgif/portfolio) - My personal portfolio website. [jakobfrenzel.com](https://www.jakobfrenzel.com/)
 - ✅️ [tick](https://github.com/jakobgif/tick) - A Todo app build in Rust.
+- ✅️ [nextjs-template](https://github.com/jakobgif/nextjs-template) - A template for a Next.js project which uses shadcn/ui. It includes a basic CLAUDE.md file and MCP servers to get started with development.
 
 ## Motto
 „Per aspera ad astra“ — "To the stars through difficulties."
